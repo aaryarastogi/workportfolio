@@ -1,0 +1,6 @@
+.stroke {
+    color: white;
+    letter-spacing: 2px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+}
